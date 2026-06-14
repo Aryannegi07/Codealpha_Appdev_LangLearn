@@ -20,9 +20,11 @@ This project was developed as part of the CodeAlpha Internship Program to demons
   
 ## 📱 Download APK
 
-Try the application directly on Android:
-
-👉 **Download APK:** https://github.com/Aryannegi07/Codealpha_Appdev_LangLearn/releases/latest
+<p align="center">
+  <a href="https://github.com/Aryannegi07/Codealpha_Appdev_LangLearn/releases/latest">
+    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
