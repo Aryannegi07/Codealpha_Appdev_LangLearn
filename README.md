@@ -17,6 +17,12 @@ This project was developed as part of the CodeAlpha Internship Program to demons
 - Track user progress locally
 - Integrate text-to-speech for pronunciation support
 - Design a clean and intuitive user interface
+  
+## 📱 Download APK
+
+Try the application directly on Android:
+
+👉 **Download APK:** https://github.com/Aryannegi07/Codealpha_Appdev_LangLearn/releases/latest
 
 ---
 
