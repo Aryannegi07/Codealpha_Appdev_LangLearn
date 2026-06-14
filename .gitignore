@@ -1,0 +1,53 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Generated files
+*.class
+*.lock
+
+# APK/AAB
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+
+# Misc
+.flutter-versions
